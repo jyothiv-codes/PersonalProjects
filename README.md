@@ -5,4 +5,8 @@ Personal alarm clock that you can set for a specific date and time unlike the re
 References- geeksforgeeks.com, stackoverflow.com
 
 **recommendation.py**
-A movie recommender system built using Streamlit and Generative AI. Currently, I have used only Gemini AI for the recommendation, but I am working on building this with other LLMs as well
+A movie recommender system built using Streamlit and Generative AI (using Gemini AI API)
+
+**recommender_open-ai.py**
+A movie recommender system built using Streamlit and Generative AI (using OpenAI API)
+
