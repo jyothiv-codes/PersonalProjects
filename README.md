@@ -1,7 +1,7 @@
 # PersonalProjects
 
 **alarm.py**
-Personal alarm clock that you can set for a specific date and time unlike the regular alarm clocks that can be set only within 24 hours. This is a .exe file that can run on Macbook. 
+Personal alarm clock that you can set for a specific date and time unlike the regular alarm clocks that can be set only within 24 hours. This is a .exe file that can run on Windows. 
 References- geeksforgeeks.com, stackoverflow.com
 
 **recommendation.py**
