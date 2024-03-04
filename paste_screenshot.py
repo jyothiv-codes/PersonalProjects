@@ -20,7 +20,7 @@ def paste_screenshot():
 
     # Create the main window of the pop-up
     root = tk.Tk()
-    root.title("Screenshot message")
+    root.title("Screenshot status")
     # Label widget is used to display the image
     label = tk.Label(root, text=message)
     label.pack()
