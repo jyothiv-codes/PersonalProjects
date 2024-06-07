@@ -70,7 +70,7 @@ def create_new_folder(base_path, sub_directory, new_folder_name):
 
 def main():
     downloads_path = os.path.join('/Users/jyothivaidyanathan/Downloads/')
-    pattern = '*JyothiVaidyanathan_Resume*'  
+    pattern = '*<YourName>_Resume*'  
     lookback_seconds = 60
     check_interval_seconds = 30
 
